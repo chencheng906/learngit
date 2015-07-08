@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 
 456
 Creating new branch is quick
+Creating a new branch is quick AND simple
